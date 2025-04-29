@@ -1,2 +1,2 @@
 # mafundi-app
-It is an app that alows construction workers to get jobs easily.
+It is an app that allows construction workers to get jobs easily.
